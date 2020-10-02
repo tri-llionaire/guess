@@ -1,0 +1,3 @@
+# guess
+Guess a lot of numbers automatically and see how many you did.
+You can uncomment the guessing outputter but you can get upwards of 100x guesses a second by leaving it off.
